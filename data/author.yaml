@@ -1,0 +1,3 @@
+default:
+  image: images/other/0.jpeg
+  name: Dan
