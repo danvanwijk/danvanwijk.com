@@ -10,13 +10,21 @@ My main requirement for this site is that it must be static and easy to manage (
 
 ***
 
-## Hugo
-Without trailing into details about Hugo and how it works I'll describe how I've divided this site into 3 different content types - pages, posts and journal entries.
+## Content
+I'll start off with a short explanation of how I've divided this site into 3 different content types - pages, posts and journal entries.
 * **Pages** are regular pages such as About and Contact. These are rarely changed.
 * **Posts** are pages such as this one you are reading now, touching a specific subject. I intend to add new posts regularly.
 * **Journal** are pages I add daily, i.e journal entries. Just things that are on my mind. Some are longer, some are shorter. Many are related to running :)
 
 You can see these different pages on [GitHub](https://github.com/danvanwijk/danvanwijk.com/tree/master/content).
+
+## Hugo
+Hugo is a CLI tool written in Go. It's not necessary to use on a day-to-day basis, e.g. when creating content, but depending on the size and complexity of your site it can definitely help as it allows you to easily start off new content based on templates. Of course you need to use it later when actually building your site into the final static files.
+
+For my part I'm just creating new content using GitHub's online interface. Not the best writing experience but it works - and it enables me to easily post new journal entries from my phone.
+
+### Getting Started
+Hugo has good documentation that will help you understand all aspects of it. To get started you can have a look [here](https://gohugo.io/getting-started/quick-start/).
 
 ### Cost
 Free
@@ -27,7 +35,7 @@ I'm using a public [GitHub repository](https://github.com/danvanwijk/danvanwijk.
 ### Actions
 GitHub has a neatly integrated CI/CD tool called Actions. You can use this to setup automated workflows for specific events in your repository, such as when you push a commit or create a pull request.
 
-I'm using a [basic workflow](https://github.com/danvanwijk/danvanwijk.com/actions) to build this site with Hugo, publish it to S3 and then clear any cached files from CloudFront - the CDN used to deliver the site to you.
+I'm using a [basic workflow](https://github.com/danvanwijk/danvanwijk.com/blob/master/.github/workflows/main.yml) to build this site with Hugo, publish it to S3 and then clear any cached files from CloudFront - the CDN used to deliver the site to you.
 
 ### Cost
 Free
