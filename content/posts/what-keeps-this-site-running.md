@@ -2,7 +2,7 @@
 date: 2020-09-26
 title: What keeps this site running
 subtitle: A brief look at the technology behind this static site.
-feature: images/posts/powered_by_aws.png
+feature: images/posts/powered-by-aws.jpeg
 caption: Amazon Web Services, the "Powered by AWS" logo are trademarks of Amazon.com, Inc. or its affiliates in the United States and/or other countries.
 ---
 
