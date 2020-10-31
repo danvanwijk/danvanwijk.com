@@ -5,12 +5,15 @@ fields:
 - type: datetime
   name: date
   label: date
-- type: datetime
-  name: lastmod
-  label: lastmod
+  config:
+    export_format: YYYY-MM-DD
+    required: true
+  default: now
 - type: text
   name: title
   label: title
+  config:
+    required: true
 - type: text
   name: subtitle
   label: subtitle
