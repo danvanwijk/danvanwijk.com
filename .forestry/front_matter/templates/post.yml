@@ -24,4 +24,5 @@ fields:
   name: caption
   label: caption
 pages:
+- content/posts/apple-watch-4-months-in.md
 - content/posts/currently-listening-to-spacer-smuggler-pirate-spy.md
