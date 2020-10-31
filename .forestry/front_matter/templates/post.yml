@@ -1,0 +1,22 @@
+---
+label: Post
+hide_body: false
+fields:
+- type: datetime
+  name: date
+  label: date
+- type: datetime
+  name: lastmod
+  label: lastmod
+- type: text
+  name: title
+  label: title
+- type: text
+  name: subtitle
+  label: subtitle
+- type: file
+  name: feature
+  label: feature
+- type: text
+  name: caption
+  label: caption
