@@ -1,0 +1,6 @@
++++
+date = 2020-10-31T00:00:00Z
+title = "Saturday"
+
++++
+Trying out [Forestry](https://forestry.io/) to update this site for a little nicer CMS experience than the raw GitHub repo/editor. Let's see how it feels!
