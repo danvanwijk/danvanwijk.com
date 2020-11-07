@@ -1,0 +1,8 @@
++++
+date = 2020-11-07T00:00:00Z
+draft = true
+feature = ""
+title = "Saturday"
+
++++
+Change of plans - I ran today instead of tomorrow and a bit shorter than 17k. Nice and calm run with a friend, in talking pace. [https://www.strava.com/activities/4300639332](https://www.strava.com/activities/4300639332 "https://www.strava.com/activities/4300639332")
