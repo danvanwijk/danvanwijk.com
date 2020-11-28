@@ -1,6 +1,6 @@
 ---
 title: About
-date: 2020-07-23T07:55:34+00:00
+date: 
 
 ---
 Hi there! I'm Dan van Wijk. I live in Lund, Sweden with my wife and two kids.
