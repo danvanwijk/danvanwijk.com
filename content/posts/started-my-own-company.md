@@ -9,7 +9,7 @@ As I've mentioned very briefly in my journal, I've started my own company. 2021 
 
 ## What will you do?
 
-Basically the same as I'm doing right now, and have been for all these years - build and run websites and web applications. In other words, not really a major change of direction in terms of occupation or anything like that.
+Basically the same as I'm doing right now, and have been for all these years - build and run websites and web applications. It will be consultancy work for clients. In other words, not really a major change of direction in terms of occupation or anything like that.
 
 ## Why?
 
