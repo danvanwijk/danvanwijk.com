@@ -3,7 +3,7 @@ date: 2020-12-26
 draft: false
 feature: "images/posts/apple-watch-26-dec.jpg"
 subtitle: "Updates on my usage of Apple Watch close to 6 months in now."
-title: "Apple Watch - 6 Months In"
+title: "Apple Watch - 6 months in"
 ---
 
 If you missed my first post you can find it [here](https://www.danvanwijk.com/apple-watch-initial-thoughts/).
