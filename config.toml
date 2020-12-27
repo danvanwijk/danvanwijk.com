@@ -37,7 +37,7 @@ pinterest = ""
 stackoverflow = ""
 twitter = ""
 youtube = ""
-strava = "https://www.strava.com/athletes/12354389"
+strava = "https://www.strava.com/athletes/danvanwijk"
 footer = ["github", "linkedin", "strava"]
 
 [params.services]
