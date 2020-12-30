@@ -2,9 +2,28 @@
 label: Journal Entry
 hide_body: false
 fields:
+- name: title
+  type: datetime
+  label: Title
+  description: ''
+  config:
+    required: true
+    date_format: YYYY-MM-DD
+    time_format: 
+    display_utc: false
+    export_format: YYYY-MM-DD
+  default: now
 - type: datetime
   name: date
-  label: date
-- type: text
-  name: title
-  label: title
+  label: Publish Date
+  config:
+    date_format: YYYY-MM-DD
+    export_format: YYYY-MM-DD
+    time_format: ''
+    required: true
+  default: now
+- name: feature
+  type: file
+  config:
+    maxSize: 64
+  label: Image
