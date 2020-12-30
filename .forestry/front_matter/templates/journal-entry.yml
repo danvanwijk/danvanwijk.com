@@ -3,16 +3,10 @@ label: Journal Entry
 hide_body: false
 fields:
 - name: title
-  type: datetime
-  label: Title
-  description: ''
+  type: text
   config:
-    required: true
-    date_format: YYYY-MM-DD
-    time_format: 
-    display_utc: false
-    export_format: YYYY-MM-DD
-  default: now
+    required: false
+  label: Title
 - type: datetime
   name: date
   label: Publish Date
