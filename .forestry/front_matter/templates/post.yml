@@ -1,0 +1,16 @@
+---
+label: Post
+hide_body: false
+fields:
+- type: datetime
+  name: date
+  label: date
+- type: file
+  name: feature
+  label: feature
+- type: text
+  name: subtitle
+  label: subtitle
+- type: text
+  name: title
+  label: title
