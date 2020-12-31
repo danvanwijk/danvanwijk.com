@@ -18,7 +18,7 @@ This will be the next chapter in my life. I look forward to see where it takes m
 
 ## Some other highlights
 
-* I switched back to iOS after lingering in Camp Andorid for a while.
+* I switched back to iOS after lingering in Camp Android for a while.
 * I started reading (or listening to) books. The convenience of AirPods was the biggest trigger for this.
 * I started this site! :)
 * My daughter started school.
