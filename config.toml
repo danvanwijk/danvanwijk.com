@@ -16,6 +16,7 @@ pluralizelisttitles = false
 
 [permalinks]
 posts = "/:title"
+journal = "/journal/:year/:month/:day"
 
 [params]
 mainSections = ["posts"]
